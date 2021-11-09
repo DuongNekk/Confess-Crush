@@ -16,3 +16,4 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'yêu bạn nhiều.',
     btnAccept: 'Okiiiii lun <3',
+    messlink: 'http://fb.com' //https://www.facebook.com/profile.php?id=100035033055706.
